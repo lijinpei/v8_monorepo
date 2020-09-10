@@ -1,6 +1,5 @@
 #*#
 *.Makefile
-*.a
 *.exe
 *.idb
 *.lib
@@ -13,7 +12,6 @@
 *.scons*
 *.sdf
 *.sln
-*.so
 *.suo
 *.user
 *.vcproj
